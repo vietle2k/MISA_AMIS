@@ -1,0 +1,75 @@
+
+.navbar {
+    font-size: 13px;
+    /*-webkit-transition: all .3s ease;*/
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #393a3d;
+    transition: all .2s ease;
+    height: 100vh;
+    width: 178px;
+}
+
+.logo-box {
+    display: flex;
+    background-color: #38393d;
+    padding: 0px;
+    height: 48px;
+    width: inherit;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-container-option {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    background: url(../assets/img/Sprites.64af8f61.svg) no-repeat -424px -86px;
+}
+
+.logo {
+    height: 32px;
+    display: block;
+}
+
+.logo .img-icon {
+    height: 32px;
+}
+
+.menu-item-list {
+    height: calc(100vh - 62px);
+    padding-top: 14px;
+    overflow: auto;
+}
+
+.con-ms-tooltip .tooltip-content {
+    height: 100%;
+}
+
+.menu-item {
+    line-height: 42px;
+    height: 42px;
+    border-left: 6px solid transparent;
+    padding-left: 8px;
+    color: #fff;
+    position: relative;
+    display: flex;
+    cursor: pointer;
+}
+    .menu-item .menu-item__icon{
+        display: flex;
+        align-items: center;
+        margin-right: 16px;
+    }
+    .menu-item .menu-item__icon {
+        margin-right: 8px;
+    }
+
+a[class="menu-item"]:hover {
+    background-color: #626262;
+}
+
+
+
+

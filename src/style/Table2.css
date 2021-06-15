@@ -1,0 +1,317 @@
+﻿
+
+    .input-search:focus {
+        border: 1px solid;
+        outline: none;
+        border-color: #019160;
+    }
+
+::placeholder {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+table input[type="checkbox"] {
+    position: relative;
+    cursor: pointer;
+}
+
+    table input[type="checkbox"]:before {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        top: 0;
+        left: 0;
+        border: 2px solid #555555;
+        border-radius: 3px;
+        background-color: white;
+    }
+
+    table input[type="checkbox"]:checked:after {
+        content: "";
+        display: block;
+        width: 5px;
+        height: 10px;
+        border: solid #4ba01e;
+        border-width: 0 2px 2px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+        position: absolute;
+        top: 3px;
+        left: 8px;
+    }
+
+.dialog_header input[type="checkbox"]:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 0;
+    left: 0;
+    border: 2px solid #555555;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.dialog_header input[type="checkbox"]:checked:after {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 10px;
+    border: solid #4ba01e;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 3px;
+    left: 8px;
+}
+
+.input-employeeCode {
+    height: 36px;
+    width: 195px;
+    border: 1px solid #bbbbbb;
+    padding-left: 8px;
+    border-radius: 2px;
+    outline: none;
+    font-size: 14px;
+    font-weight: 100;
+    right: 64px;
+}
+
+    .input-employeeCode:focus {
+        border: 1px solid;
+        outline: none;
+        border-color: #019160;
+    }
+
+.input-employeeName {
+    height: 36px;
+    width: 260px;
+    border: 1px solid #bbbbbb;
+    padding-left: 8px;
+    border-radius: 2px;
+    outline: none;
+    font-size: 14px;
+    font-weight: 100;
+    right: 64px;
+}
+
+    .input-employeeName:focus {
+        border: 1px solid;
+        outline: none;
+        border-color: #019160;
+    }
+
+.input-employeePosition {
+    height: 36px;
+    width: 428px;
+    border-top: 1px solid #bbbbbb;
+    border-left: 1px solid #bbbbbb;
+    border-bottom: 1px solid #bbbbbb;
+    padding-left: 8px;
+    border-radius: 2px;
+    outline: none;
+    font-size: 14px;
+    font-weight: 100;
+    right: 64px;
+}
+
+    .input-employeePosition:focus {
+        border: 1px solid;
+        outline: none;
+        border-color: #019160;
+    }
+
+.input-employeeCareer {
+    height: 36px;
+    width: 463px;
+    border: 1px solid #bbbbbb;
+    padding-left: 8px;
+    border-radius: 2px;
+    outline: none;
+    font-size: 14px;
+    font-weight: 100;
+    right: 64px;
+}
+
+    .input-employeeCareer:focus {
+        border: 1px solid;
+        outline: none;
+        border-color: #019160;
+    }
+
+
+.btn-reload {
+    position: absolute;
+    background: url("../../assets/img/Sprites.64af8f61.svg") no-repeat -425px -201px;
+    width: 22px;
+    height: 24px;
+    right: 27px;
+    border-style: none;
+}
+
+    .btn-reload:hover {
+        cursor: pointer;
+        background: url("../../assets/img/Sprites.64af8f61.svg") no-repeat -1098px -90px;
+        width: 22px;
+        height: 24px;
+    }
+
+.btn-fix {
+    position: absolute;
+    right: 21px;
+    top: 3px;
+    color: #3b75c0;
+    font-weight: 500;
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+    overflow: visible;
+    font-size: 18px;
+}
+
+    .btn-fix:focus {
+        border: 1px solid;
+        outline: none;
+        border-style: none;
+        border-color: #3b75c0;
+    }
+
+table {
+    border-collapse: collapse;
+    border: hidden;
+}
+
+    table tr {
+        border: 1px solid #c7c7c7;
+        height: 46px;
+    }
+
+    table thead th {
+        /* text-align: left; */
+        position: sticky;
+        top: 0;
+        background-color: #eceef1;
+        border-bottom: 1px solid #bbb;
+        box-shadow: 0 1px 1px -1px #bbb;
+    }
+
+    table thead {
+        border-bottom: 1px solid #bbb;
+    }
+
+th, td {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #c7c7c7;
+}
+
+    th:first-child, th:last-child, td:first-child, td:last-child {
+        padding-right: 16px;
+    }
+
+table tr {
+    cursor: pointer;
+}
+
+    table tr:hover {
+        background-color: #ebebeb;
+    }
+
+#content {
+    position: absolute;
+    top: 48px;
+    left: 178px;
+    width: calc(100% - 178px);
+    height: calc(100% - 48px);
+    padding-left: 20px;
+    background-color: #f2f3f4;
+}
+
+.page-header {
+    height: 36px;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    align-items: center;
+}
+
+.page-left {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.page-right {
+    position: absolute;
+    right: 12px;
+}
+
+.content-color {
+    position: absolute;
+    background-color: white;
+    right: 12px;
+    bottom: 0px;
+    top: 57px;
+    left: 21px;
+}
+
+.toolbar {
+    width: 100%;
+    height: 55px;
+    align-items: center;
+    display: flex;
+}
+
+.icon-search {
+    position: absolute;
+    background: url("../../assets/img/Sprites.64af8f61.svg") no-repeat -425px -33px;
+    width: 22px;
+    height: 22px;
+    right: 74px;
+}
+
+    .icon-search:hover {
+        cursor: pointer;
+    }
+
+.grid {
+    position: absolute;
+    right: 34px;
+    left: 12px;
+    bottom: 60px;
+    top: 59px;
+    overflow-y: auto;
+    /* border: 1px solid; */
+}
+
+.func-bar {
+    position: relative;
+    width: 79px;
+    /* border: 1px solid; */
+    height: 32px;
+}
+
+.icon-dropdown {
+    background: url(/img/Sprites.64af8f61.64af8f61.svg) no-repeat -896px -360px;
+    width: 20px;
+    height: 15px;
+    position: absolute;
+    right: -5px;
+    top: 8px;
+    border-style: none;
+    cursor: pointer;
+}
+
+    .icon-dropdown:focus {
+        border: 1px solid;
+        outline: none;
+        border-style: none;
+        border-color: #3b75c0;
+    }

@@ -1,0 +1,26 @@
+﻿.ms-checkbox[data-v-8b13dc4a] {
+    top: 0;
+    left: 0;
+    transition: all .2s ease;
+    transform: rotate(-90deg);
+    cursor: pointer;
+    position: relative;
+    display: block;
+    width: 18px;
+    height: 18px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 1px solid #afafaf;
+    background: #fff;
+}
+
+.con-ms-checkbox[data-v-8b13dc4a] {
+    justify-content: flex-start;
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}

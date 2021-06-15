@@ -1,0 +1,94 @@
+﻿table, thead {
+    background-color: #eceef1;
+}
+
+th {
+    padding: 6px 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    border: 0;
+    text-align: left;
+    font-size: .85rem;
+    height: 34px;
+}
+
+.ms-grid-viewer .ms-table-viewer {
+    border-spacing: 0;
+    min-width: 100%;
+}
+
+.ms-th-viewer {
+    top: 93px !important;
+}
+
+.ms-grid-viewer .ms-table-viewer .ms-thead-viewer .ms-tr-viewer .ms-th-viewer {
+    border-right: 1px solid #c7c7c7;
+    border-bottom: 1px solid #c7c7c7;
+    /*min-height: 34px;*/
+    height: 34px;
+    position: sticky;
+    z-index: 2;
+    top: 0;
+    background-color: #eceef1;
+    vertical-align: middle;
+}
+
+.ms-grid-viewer .ms-table-viewer .ms-thead-viewer .ms-tr-viewer .ms-muli-checkall {
+    z-index: 3;
+    position: sticky;
+    left: 0;
+    top: 0;
+    width: 40px;
+    max-width: 40px;
+    padding: 0 0 0 0 !important;
+}
+
+.con-ms-checkbox {
+    justify-content: flex-start;
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.ms-checkbox {
+    top: 0;
+    left: 0;
+    transition: all .2s ease;
+    transform: rotate(-90deg);
+    cursor: pointer;
+    position: relative;
+    display: block;
+    width: 18px;
+    height: 18px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 1px solid #afafaf;
+    background: #fff;
+}
+
+.ms-checkbox--input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 200;
+    cursor: pointer;
+}
+
+.ms-checkbox-inner {
+    width: inherit;
+    height: inherit;
+}
+
+.ms-checkbox--input:checked + .ms-checkbox {
+    transform: rotate(0deg);
+}
+
+::placeholder {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+}

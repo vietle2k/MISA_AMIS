@@ -1,0 +1,53 @@
+﻿.ms-button{
+    transition: all .2s ease;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    box-sizing: border-box;
+    background: transparent;
+    overflow: visible;
+}
+
+.ms-button-radius-false, .ms-button-radius-false:before {
+    border-radius: 3px;
+}
+
+.ms-button-secondary {
+    border: 1px solid #8d9096;
+    color: #111;
+    background-color: transparent;
+}
+
+.ms-button-size-default {
+    height: 36px;
+    padding: 8px 20px;
+}
+
+.expand-more-button {
+    height: 100%;
+    position: relative;
+}
+
+.ms-padding-is-single-true-size-default {
+    height: 36px;
+    padding: 8px 20px;
+}
+
+.btn {
+    display: inline-block;
+    outline: none;
+    border: none;
+    padding-left: 24px;
+    padding-right: 24px;
+    height: 36px;
+    line-height: 36px;
+    background-color: #2ca01c;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #ffffff;
+    cursor: pointer;
+    text-align: center;
+}
+

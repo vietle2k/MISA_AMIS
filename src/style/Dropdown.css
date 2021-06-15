@@ -1,0 +1,12 @@
+﻿@import 'Button.css';
+
+.dropdown-secondary .ms-padding-is-single-true-size-default {
+    padding: 0;
+}
+
+.dropdown-secondary .ms-button-secondary, [data-v-c6ebc7c4] .dropdown-secondary .ms-button-secondary-active-true, [data-v-c6ebc7c4] .dropdown-secondary .ms-button-secondary-hover-true {
+    border: unset;
+    color: unset;
+    background: unset;
+}
+

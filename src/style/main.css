@@ -1,0 +1,14 @@
+@import url('./font.css');
+@import url(icon.css);
+/*@import url(Table.css);*/
+/*@import url(Table2.css);*/
+@import url(Input.css);
+a {
+    cursor: pointer;
+}
+
+html {
+    width: 100%;
+    letter-spacing: .01rem;
+    line-height: 1.5;
+}

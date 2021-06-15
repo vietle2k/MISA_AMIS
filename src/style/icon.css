@@ -1,0 +1,109 @@
+﻿.mi {
+    background: url(../assets/img/Sprites.5f05e81f.svg) no-repeat;
+    cursor: pointer;
+}
+
+.mi-24 {
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+.mi-14 {
+    width: 14px;
+    height: 14px;
+    min-width: 14px;
+    min-height: 14px;
+}
+
+.mi-16 {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+}
+
+.mi-sidebar-dashboard {
+    background-position: -30px -1628px;
+}
+
+.mi-sidebar-cash {
+    background-position: -73px -1628px;
+}
+
+.mi-sidebar-bank {
+    background-position: -117px -1628px;
+}
+
+.mi-sidebar-pu {
+    background-position: -161px -1628px;
+}
+
+.mi-sidebar-sale {
+    background-position: -204px -1628px;
+}
+
+.mi-sidebar-invoice {
+    background-position: -249px -1628px;
+}
+
+.mi-sidebar-stock {
+    background-position: -291px -1628px;
+}
+
+.mi-sidebar-tools {
+    background-position: -336px -1628px;
+}
+
+.mi-sidebar-fixed-assets {
+    background-position: -378px -1630px;
+}
+
+.mi-sidebar-tax {
+    background-position: -423px -1630px;
+}
+
+.mi-sidebar-price {
+    background-position: -467px -1628px;
+}
+
+.mi-sidebar-general {
+    background-position: -510px -1628px;
+}
+
+.mi-sidebar-budget {
+    background-position: -378px -1659px;
+}
+
+.mi-sidebar-report {
+    background-position: -547px -1628px;
+}
+
+.mi-sidebar-finance {
+    background-position: -204px -1664px;
+}
+
+.mi-three-stripes {
+    background-position: -843px -30px;
+}
+
+.mi-chevron-right {
+    background-position: -80px -360px;
+}
+
+.mi-bell__nav {
+    background-position: -788px -30px;
+}
+
+.mi-chevron-down {
+    background-position: -1076px -32px;
+}
+
+.mi-search {
+    background-position: -992px -360px;
+}
+
+.mi-refresh {
+    background-position: -423px -201px;
+}
