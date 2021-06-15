@@ -1,0 +1,30 @@
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\bin\Debug\net5.0\Common.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.csprojAssemblyReference.cache
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.AssemblyInfoInputs.cache
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.AssemblyInfo.cs
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\bin\Debug\net5.0\MISA.DL.deps.json
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\bin\Debug\net5.0\MISA.DL.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\bin\Debug\net5.0\ref\MISA.DL.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\bin\Debug\net5.0\MISA.DL.pdb
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\bin\Debug\net5.0\Common.pdb
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.csproj.CoreCompileInputs.cache
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.csproj.CopyComplete
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\ref\MISA.DL.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\MISA.DL\obj\Debug\net5.0\MISA.DL.pdb
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\bin\Debug\net5.0\MISA.DL.deps.json
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\bin\Debug\net5.0\MISA.DL.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\bin\Debug\net5.0\ref\MISA.DL.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\bin\Debug\net5.0\MISA.DL.pdb
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\bin\Debug\net5.0\Common.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\bin\Debug\net5.0\Common.pdb
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.csprojAssemblyReference.cache
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.AssemblyInfoInputs.cache
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.AssemblyInfo.cs
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.csproj.CoreCompileInputs.cache
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.csproj.CopyComplete
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\ref\MISA.DL.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\MISA.DL\obj\Debug\net5.0\MISA.DL.pdb
