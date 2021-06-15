@@ -1,0 +1,24 @@
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\bin\Debug\net5.0\Common.deps.json
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\bin\Debug\net5.0\Common.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\bin\Debug\net5.0\ref\Common.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\bin\Debug\net5.0\Common.pdb
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\ref\Common.dll
+D:\MISA WEB\misa-ck-api\MISA.CuoiKhoa\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\bin\Debug\net5.0\Common.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\viet\Videos\ngtung\misa-ck-backend-main\Common\obj\Debug\net5.0\Common.pdb
